@@ -21,6 +21,7 @@
 		8490397D19AE342000F8413D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8490395F19AE342000F8413D /* UIKit.framework */; };
 		8490398519AE342000F8413D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8490398319AE342000F8413D /* InfoPlist.strings */; };
 		8490398719AE342000F8413D /* Ej2T1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8490398619AE342000F8413D /* Ej2T1Tests.m */; };
+		8490399219AE34CB00F8413D /* NuevaClase.m in Sources */ = {isa = PBXBuildFile; fileRef = 8490399119AE34CB00F8413D /* NuevaClase.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		8490398219AE342000F8413D /* Ej2T1Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Ej2T1Tests-Info.plist"; sourceTree = "<group>"; };
 		8490398419AE342000F8413D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8490398619AE342000F8413D /* Ej2T1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Ej2T1Tests.m; sourceTree = "<group>"; };
+		8490399019AE34CB00F8413D /* NuevaClase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NuevaClase.h; sourceTree = "<group>"; };
+		8490399119AE34CB00F8413D /* NuevaClase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NuevaClase.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +122,8 @@
 				8490397119AE342000F8413D /* ViewController.m */,
 				8490397319AE342000F8413D /* Images.xcassets */,
 				8490396219AE342000F8413D /* Supporting Files */,
+				8490399019AE34CB00F8413D /* NuevaClase.h */,
+				8490399119AE34CB00F8413D /* NuevaClase.m */,
 			);
 			path = Ej2T1;
 			sourceTree = "<group>";
@@ -251,6 +256,7 @@
 			files = (
 				8490397219AE342000F8413D /* ViewController.m in Sources */,
 				8490396C19AE342000F8413D /* AppDelegate.m in Sources */,
+				8490399219AE34CB00F8413D /* NuevaClase.m in Sources */,
 				8490396819AE342000F8413D /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
