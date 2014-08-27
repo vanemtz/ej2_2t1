@@ -10,4 +10,5 @@
 
 @interface NuevaClase : NSObject
 
+@property NSString *cadena;
 @end
